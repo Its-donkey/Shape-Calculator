@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rectangle Calculator</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="unit_type">
+        <item>M</item>
+        <item>cm</item>
+        <item>mm</item>
+    </string-array>
+</resources>
