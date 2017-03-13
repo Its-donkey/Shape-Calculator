@@ -1,10 +1,38 @@
 <resources>
-    <string name="app_name">Rectangle Calculator</string>
+    <string name="app_name">Shapes Calculator</string>
     <string name="action_settings">Settings</string>
 
-    <string-array name="unit_type">
+    <string-array name="unit_type_array">
         <item>M</item>
         <item>cm</item>
         <item>mm</item>
     </string-array>
+
+    <!--Text View strings -->
+    <string name="label_width">Width</string>
+    <string name="label_height">Height</string>
+    <string name="prompt_unit">Select Unit</string>
+    <string name="label_perimeter">Perimeter</string>
+    <string name="label_area">Area</string>
+    <string name="label_radius">Radius</string>
+    <string name="label_triangle_side_A">Side A</string>
+    <string name="label_triangle_side_B">Side B</string>
+    <string name="label_triangle_side_C">Side C</string>
+
+    <!--Edit Text box hints-->
+    <string name="hint_width">Enter width value</string>
+    <string name="hint_height">Enter height value</string>
+    <string name="hint_radius">Enter radius value</string>
+    <string name="hint_circumference">Enter circumference</string>
+    <string name="hint_circle_area">Enter area value</string>
+    <string name="hint_triangle_side_a">Side A length</string>
+    <string name="hint_triangle_side_b">Side B length</string>
+    <string name="hint_triangle_side_c">Side C length</string>
+
+    <!--Activities Titles-->
+    <string name="title_activity_main_menu">Main Menu</string>
+    <string name="title_activity_rectangle">Rectangle Calculator</string>
+    <string name="title_activity_circle_calculator">Circle Calculator</string>
+    <string name="title_activity_triangle_calculator">Triangle Calculator</string>
+
 </resources>
